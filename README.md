@@ -1,0 +1,73 @@
+|index|report_field_extended_dump|
+|---|---|
+|0|	requestId|
+|1|	requestDate|
+|2|	httpMethod|
+|3|	endpoint|
+|4|	resultCode|
+|5|	resultDescription|
+|6|	clientIp|
+|7|	responseTime|
+|8|	sessionId|
+|9|	status|
+|10|numberType|
+|11|number|
+|12|paymentType or simType|
+|13|	simId|
+|14|	username|
+|15|	fiscalcode|
+|16|	yearOfBirth|
+|17|	sex|
+|18|	networkStatus|
+|19|	profile|
+|20|	wifiEnriched|
+|21|	allowedMsisdns|
+|22|	residential|
+|23|	installationId|
+|24|	muid|
+|25|	appKey|
+|26|	cid|
+|27|	aid|
+|28|	appId|
+|29|	appPlatform|
+|30|	appVersion|
+|31|	osName|
+|32|	osVersion|
+|33|	tablet|
+|34|	deviceModel|
+|35|	deviceVendor|
+|36|	pushEnabled|
+|37|	pushToken|
+|38|	pushEvent.type|
+|39|	pushEvent.event|
+|40|	pushEvent.treatmentCode|
+|41|	pushEvent.keyCode|
+|42|	pushEvent.campCode|
+|43|	pushEvent.cycle|
+|44|	pushEvent.simId|
+|45|	pushEvent.messageId|
+|46|	registrationStatus|
+|47|	previousAppVersion|
+|48|	consentType|
+|49|	consentValue|
+|50|	productStatisticData.productId|
+|51|	productStatisticData.spyderId|
+|52|	productStatisticData.productType|
+|53|	productStatisticData.objectCode|
+|54|	productStatisticData.productName|
+|55|	productStatisticData.operationType|
+|56|	productStatisticData.activationChain|
+|57|	productStatisticData.fromCampaign|
+|58|	productStatisticData.optinCode|
+|59|	productStatisticData.batch|
+|60|	productStatisticData.type|
+|61|	productStatisticData.conditionCode|
+|62|	productStatisticData.resultCode|
+|63|	callInterceptData.anchor|
+|64|	callInterceptData.policyInterceptId|
+|65|	callInterceptData.policyInterceptName|
+|66|	anchorStatisticsData.anchorDestCode|
+|67|	anchorStatisticsData.anchorOlaId|
+|68|	anchorStatisticsData.anchorViewSuccess|
+|69|	pushEvent.attribution|
+|70|contactCenterStatisticsData.contactCenterIdrep|
